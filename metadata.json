@@ -1,0 +1,6 @@
+{
+  "name": "GullyPros",
+  "description": "The Operating System for World Cricket. Live dynamic scoring with conflict-safe offline simulation, AI predictive commentary, real-time match analytics, computer vision overlay tracking, talent scouting profiles, and sponsor matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
